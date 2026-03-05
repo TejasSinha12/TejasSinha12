@@ -24,9 +24,6 @@ interests   : Autonomous AI Systems · Full Stack ·
 ```
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&layout=compact&theme=radical)
----
 
 ## 🛠️ Tech Stack
 
