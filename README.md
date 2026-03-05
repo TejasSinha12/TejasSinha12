@@ -20,7 +20,7 @@ name        : Tejas Sinha
 role        : Developer | AI & Software Enthusiast
 focus       : Java · AI · Web Development
 status      : Open to work & collaborations
-interests   : Autonomous AI Systems · Full Stack · Algo Trading
+interests   : Autonomous AI Systems · Full Stack · 
 ```
 
 ---
@@ -49,19 +49,6 @@ interests   : Autonomous AI Systems · Full Stack · Algo Trading
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/TejasSinha12">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Tejas's GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/TejasSinha12">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  </a>
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
