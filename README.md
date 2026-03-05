@@ -7,8 +7,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight)
-
+![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
 ## 🔥 GitHub Streak
