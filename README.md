@@ -14,9 +14,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Tejas's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/TejasSinha12">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Tejas's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/TejasSinha12">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </a>
 </div>
 
 ---
@@ -57,8 +60,10 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejasSinha12&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TejasSinha12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
 </div>
+
+> 💡 *If trophies don't load, view them directly at [github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app/?username=TejasSinha12)*
 
 ---
 
