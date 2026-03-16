@@ -78,17 +78,13 @@ interests   : Autonomous AI Systems · Full Stack
 ## 🕸️ Contribution Breakdown
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejasSinha12&theme=tokyonight" alt="Profile Summary"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" alt="Tejas's GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TejasSinha12&theme=tokyonight" alt="Repos per Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TejasSinha12&theme=tokyonight" alt="Most Commit Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejasSinha12&theme=tokyonight" alt="Stats"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TejasSinha12&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&count_private=true&cache_seconds=1800" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TejasSinha12&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="WakaTime Stats"/>
 </div>
 
 ---
