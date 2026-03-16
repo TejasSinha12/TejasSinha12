@@ -78,13 +78,9 @@ interests   : Autonomous AI Systems · Full Stack
 ## 🕸️ Contribution Breakdown
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" alt="Tejas's GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&count_private=true&cache_seconds=1800" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Tejas's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TejasSinha12&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="WakaTime Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 ---
