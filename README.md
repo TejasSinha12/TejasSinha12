@@ -20,7 +20,7 @@ name        : Tejas Sinha
 role        : Developer | AI & Software Enthusiast
 focus       : Java · AI · Web Development
 status      : Open to work & collaborations
-interests   : Autonomous AI Systems · Full Stack · 
+interests   : Autonomous AI Systems · Full Stack
 ```
 
 ---
@@ -49,11 +49,20 @@ interests   : Autonomous AI Systems · Full Stack ·
 
 ---
 
-
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TejasSinha12&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=TejasSinha12&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Tejas's GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
@@ -61,7 +70,7 @@ interests   : Autonomous AI Systems · Full Stack ·
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasSinha12&theme=tokyo-night&hide_border=true&area=true&custom_title=Tejas's+Contribution+Graph" alt="Tejas's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasSinha12&theme=tokyo-night&hide_border=true&area=true&area_color=6E9FFF&line=6E9FFF&point=ffffff&custom_title=Tejas's+Contribution+Graph" alt="Tejas's Contribution Graph"/>
 </div>
 
 ---
@@ -87,7 +96,19 @@ interests   : Autonomous AI Systems · Full Stack ·
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejasSinha12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TejasSinha12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejasSinha12/TejasSinha12/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TejasSinha12/TejasSinha12/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/TejasSinha12/TejasSinha12/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
