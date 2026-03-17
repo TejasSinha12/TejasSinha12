@@ -79,14 +79,6 @@ interests   : Autonomous AI Systems · Full Stack
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejasSinha12&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
