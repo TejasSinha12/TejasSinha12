@@ -78,9 +78,9 @@ interests   : Autonomous AI Systems · Full Stack
 ## 🕸️ Contribution Breakdown
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Tejas's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasSinha12&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true&ring_color=6E9FFF&cache_seconds=3600" alt="Tejas's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasSinha12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=3600" alt="Top Languages"/>
 </div>
 
 ---
