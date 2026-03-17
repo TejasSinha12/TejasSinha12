@@ -82,19 +82,7 @@ interests   : Autonomous AI Systems · Full Stack
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejasSinha12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejasSinha12/TejasSinha12/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TejasSinha12/TejasSinha12/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/TejasSinha12/TejasSinha12/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=TejasSinha12&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 ---
