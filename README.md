@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Terminal card (commit dark.svg to the repo root) -->
+<img src="https://github.com/TejasSinha12/TejasSinha12/raw/main/dark.svg" alt="Tejas Sinha - terminal style profile card" width="100%"/>
+
+<br/><br/>
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6E9FFF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Tejas+Sinha;Developer+%7C+AI+%26+Software+Enthusiast;Building+with+Java%2C+AI+%26+Web;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -18,10 +23,44 @@
 ```yaml
 name        : Tejas Sinha
 role        : Developer | AI & Software Enthusiast
+education   : AI & ML, IIT Patna
 focus       : Java · AI · Web Development
 status      : Open to work & collaborations
-interests   : Autonomous AI Systems · Full Stack
+interests   : Autonomous AI Systems · Full Stack · Game Server Engineering
 ```
+
+---
+
+## 🧩 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/TejasSinha12/Astraeus">Astraeus</a></h3>
+      Modular cognitive architecture framework exploring autonomous reasoning, adaptive memory systems and recursive self-improvement.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-Agents-6E9FFF?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔔 <a href="https://github.com/TejasSinha12/Real-Time-Notification-System">Real-Time Notification System</a></h3>
+      Notification backend built with Spring Boot, with WebSocket delivery, retry mechanisms and event-driven processing.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSockets-6E9FFF?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⛏️ DG Network</h3>
+      Minecraft server network I run and administer: plugin configuration, performance tuning and custom tooling such as anti-cheat JAR analysis. Paper 1.21.x.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Paper-1.21.x-6E9FFF?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,6 +130,8 @@ interests   : Autonomous AI Systems · Full Stack
 ---
 
 <div align="center">
+
+> **Build things. Automate the boring parts. Scale what matters.**
 
 ⭐ *If you find my work interesting, consider leaving a star on my repos!*
 
