@@ -23,10 +23,10 @@
 ```yaml
 name        : Tejas Sinha
 role        : Developer | AI & Software Enthusiast
-education   : AI & ML, IIT Patna
+education   : AI & ML,
 focus       : Java · AI · Web Development
 status      : Open to work & collaborations
-interests   : Autonomous AI Systems · Full Stack · Game Server Engineering
+interests   : Autonomous AI Systems · Full Stack ·
 ```
 
 ---
