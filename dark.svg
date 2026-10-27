@@ -50,7 +50,7 @@
 <text x="600" y="226" class="acc">&gt; Role</text>
 <text x="750" y="226" class="fg">Developer | AI &amp; Software</text>
 <text x="600" y="250" class="acc">&gt; Education</text>
-<text x="750" y="250" class="fg">AI &amp; ML, IIT Patna</text>
+<text x="750" y="250" class="fg">AI &amp; ML,</text>
 <text x="600" y="274" class="acc">&gt; Stack</text>
 <text x="750" y="274" class="fg">Java, TypeScript, Python</text>
 <text x="750" y="298" class="fg">Spring Boot, React, Node.js</text>
