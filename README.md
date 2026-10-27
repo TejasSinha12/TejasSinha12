@@ -26,7 +26,7 @@ role        : Developer | AI & Software Enthusiast
 education   : AI & ML,
 focus       : Java · AI · Web Development
 status      : Open to work & collaborations
-interests   : Autonomous AI Systems · Full Stack ·
+interests   : Autonomous AI Systems · Full Stack
 ```
 
 ---
@@ -49,15 +49,6 @@ interests   : Autonomous AI Systems · Full Stack ·
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/WebSockets-6E9FFF?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>⛏️ DG Network</h3>
-      Minecraft server network I run and administer: plugin configuration, performance tuning and custom tooling such as anti-cheat JAR analysis. Paper 1.21.x.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Paper-1.21.x-6E9FFF?style=flat-square"/>
     </td>
   </tr>
 </table>
